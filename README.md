@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **data analysis, mathematical modeling, machine learning, and deep learning algorithms, as well as research methodologies. Solving partial differential equations using Physics-Informed Neural Networks (PINN) is one of my favorite areas.**
 
-- 📧 How to reach me **fardous.amath@gmail.com**
+- 📧 How to reach me **Fardous.Hasan@uib.no**
 
 # 📊 GitHub Stats:
 [![Fardous's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fardous07&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
