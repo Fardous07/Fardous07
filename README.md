@@ -3,7 +3,7 @@
 
 - 💻 I’m currently working on **developing machine learning and deep learning models and algorithms for various projects**
 
-- 🧑‍💼 I’m looking to collaborate on **innovative projects at the intersection of data science and mathematics, particularly in the energy, environmental, or oil sectors, focusing on areas such as predictive maintenance, reservoir optimization, or emissions reduction.**
+- 🧑‍💼 I’m looking to collaborate on **innovative projects at the intersection of data science and mathematics, particularly in areas such as predictive maintenance, reservoir optimization, and emissions reduction.**
 
 - 🤝 I’m looking for help with **exploring new research directions, refining mathematical models, and optimizing algorithms for real-world applications.**
 
